@@ -58,7 +58,7 @@ git push -u origin main
 
 ### Step 4: Deploy Frontend (Vercel - Free)
 
-1. Go to https://vercel.com
+1. Go to https://   vercel.com
 2. Sign up with GitHub
 3. Click "Add New Project"
 4. Import your GitHub repo
